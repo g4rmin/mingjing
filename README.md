@@ -4,7 +4,10 @@ MingJing 明镜，主要用于从HTML中提取潜在链接，并优先对同根�
 ### chrome插件
 使用chrome开发者模式加载源码。
 
-### 后续想法
+### 例子
+![Image text]([https://github.com/lightClouds917/designMode/blob/master/src/main/resources/templates/java4all_black.jpg](https://github.com/g4rmin/mingjing/blob/main/demo.png))
+
+### 后续
 1. 优化插件显示界面
 2. 指纹特征  
 
